@@ -1,6 +1,7 @@
 from baralho import Baralho 
 from carta import Carta
 from jogador import Jogador 
+#Feito por Douglas Pereira e Davi Correia
 
 print ("Bem-vindo ao Cassino Relâmpago!")
 print ('Você pode escolher essas opções: \n1- Jogar \n2- Tutorial')
